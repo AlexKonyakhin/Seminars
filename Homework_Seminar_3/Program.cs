@@ -33,23 +33,42 @@
 
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
-double FindDistance (double xa, double ya, double xb, double yb, double za, double zb)
-    {
-        return Math.Round(Math.Sqrt(Math.Pow(xa - xb, 2) + Math.Pow(ya - yb, 2) + Math.Pow(za - zb, 2) ),2);
-    }
-Console.WriteLine("Inrut coordinate X for first point:" );
-double xa = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Inrut coordinate Y for first point:" );
-double ya = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Inrut coordinate Z for first point:" );
-double za = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Inrut coordinate X for second point:" );
-double xb = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Inrut coordinate Y for second point:" );
-double yb = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Inrut coordinate z for second point:" );
-double zb = Convert.ToDouble(Console.ReadLine());
+// double FindDistance (double xa, double ya, double xb, double yb, double za, double zb)
+//     {
+//         return Math.Round(Math.Sqrt(Math.Pow(xa - xb, 2) + Math.Pow(ya - yb, 2) + Math.Pow(za - zb, 2) ),2);
+//     }
+// Console.WriteLine("Inrut coordinate X for first point:" );
+// double xa = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Inrut coordinate Y for first point:" );
+// double ya = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Inrut coordinate Z for first point:" );
+// double za = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Inrut coordinate X for second point:" );
+// double xb = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Inrut coordinate Y for second point:" );
+// double yb = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Inrut coordinate z for second point:" );
+// double zb = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine($"Distance between our points => {FindDistance(xa, ya, xb, yb, za, zb)}");
+// Console.WriteLine($"Distance between our points => {FindDistance(xa, ya, xb, yb, za, zb)}");
+
+// Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+
+// 3 -> 1, 8, 27
+// 5 -> 1, 8, 27, 64, 125
+
+// void Cube(int num)
+// {
+//     int counter = 1;
+//     while (counter <= num)
+//     {
+//         Console.WriteLine($"{counter} -> {Math.Pow(counter, 3)} ");
+//         counter++;
+//     }
+
+// }
+// Console.WriteLine("Input N: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// Cube(n);
 
 
