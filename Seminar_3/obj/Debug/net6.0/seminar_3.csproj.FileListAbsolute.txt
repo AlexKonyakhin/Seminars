@@ -1,0 +1,15 @@
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\bin\Debug\net6.0\seminar_3.exe
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\bin\Debug\net6.0\seminar_3.deps.json
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\bin\Debug\net6.0\seminar_3.runtimeconfig.json
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\bin\Debug\net6.0\seminar_3.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\bin\Debug\net6.0\seminar_3.pdb
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.csproj.AssemblyReference.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.AssemblyInfoInputs.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.AssemblyInfo.cs
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.csproj.CoreCompileInputs.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\refint\seminar_3.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.pdb
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\seminar_3.genruntimeconfig.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\seminar_3\obj\Debug\net6.0\ref\seminar_3.dll
