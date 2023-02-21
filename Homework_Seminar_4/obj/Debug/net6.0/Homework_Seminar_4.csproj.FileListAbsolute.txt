@@ -1,0 +1,15 @@
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.csproj.AssemblyReference.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.AssemblyInfoInputs.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.AssemblyInfo.cs
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.csproj.CoreCompileInputs.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\bin\Debug\net6.0\Homework_Seminar_4.exe
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\bin\Debug\net6.0\Homework_Seminar_4.deps.json
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\bin\Debug\net6.0\Homework_Seminar_4.runtimeconfig.json
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\bin\Debug\net6.0\Homework_Seminar_4.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\bin\Debug\net6.0\Homework_Seminar_4.pdb
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\refint\Homework_Seminar_4.dll
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.pdb
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\Homework_Seminar_4.genruntimeconfig.cache
+D:\Учёба Разработчик\Seminar_C_Sharp\Homework_Seminar_4\obj\Debug\net6.0\ref\Homework_Seminar_4.dll
